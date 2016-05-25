@@ -1,5 +1,7 @@
 #fastBMARdemo
 fastBMA as part of the networkBMA R package
+## Credits
+Kaiyuan Shi modified the fastBMA code and implemented the Rcpp interface. LHH wrote the configuration and test code. The original networkBMA code is part of a Bioconductor [package](https://www.bioconductor.org/packages/release/bioc/html/networkBMA.html).
 
 ## Installation
 The source package for networkBMA including fastBMA is provided as tarball.
